@@ -7,4 +7,4 @@
 
 # install nodemon
 ### In the terminal
-npm i -g nodemon
+###### npm i -g nodemon
