@@ -1,5 +1,8 @@
 ### working beta
 
+# run
+###### nodemon api.js
+
 # install express
 ### In the terminal
 ###### npm init --yes
