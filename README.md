@@ -1,6 +1,5 @@
-### working beta
 
-# run
+# to run:
 ###### nodemon api.js
 
 # install express
